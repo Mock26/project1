@@ -1,0 +1,57 @@
+body {
+	font-family: Helvetica;
+	background-color: #ececec;
+	background-image: url("../images/splatter.jpg");
+	margin: 0 auto 0;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+#monet {
+	max-width: 1400px;
+	margin: -67px auto -16px;
+	padding-top: 67px;
+	padding-bottom: 20px;
+	max-width: 1400px;
+	background-color: white;
+}
+
+img, p, h3 {
+	padding-left: 20px;
+}
+
+.dasmoto-header {
+	
+	background-image: url("../images/tiles.jpeg");
+}
+
+.brushes h2 {
+	background-color: mediumspringgreen;
+}
+
+.frames h2 {
+	background-color: lightcoral;
+}
+
+.paint h2 {
+	background-color: skyblue;	
+}
+
+.frida {
+	font-weight: bold;
+	color: blue;
+}
+
